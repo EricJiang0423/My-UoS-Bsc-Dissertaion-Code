@@ -10,3 +10,5 @@ Paper in: [Dissertation Paper](https://github.com/EricJiang0423/My-UoS-Bsc-Disse
 
 ## Updates
 Nothing has been done. Only have this repository.
+
+21Feb2025: Get Data Using yfinance api.
