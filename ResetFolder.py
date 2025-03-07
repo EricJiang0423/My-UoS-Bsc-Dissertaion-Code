@@ -3,7 +3,7 @@
 
 import os
 # delete datasets, results, tensorboard_log, trained_models
-folders_to_delete = ["datasets", "results", "tensorboard_log", "trained_models"]
+folders_to_delete = ["datasets", "results", "tensorboard_log"]
 for folder in folders_to_delete:
     if os.path.exists(folder):
         os.system(f"rmdir /S /Q {folder}")

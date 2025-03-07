@@ -176,7 +176,7 @@ CRYPTO_TICKER = [
     "ADA-USD",
     "TRX-USD",
     "XLM-USD",
-    "SHIB-USD"
+    "WBTC-USD"
 ]
 
 # FX Ticker
