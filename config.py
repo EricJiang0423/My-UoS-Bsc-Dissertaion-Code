@@ -11,7 +11,7 @@ TRAIN_START_DATE = "2017-11-09"
 TRAIN_END_DATE = "2023-12-31"
 
 TEST_START_DATE = "2024-01-01"
-TEST_END_DATE = "2025-03-10"
+TEST_END_DATE = "2025-03-01"
 
 # stockstats technical indicator column names
 # check https://pypi.org/project/stockstats/ for different names
