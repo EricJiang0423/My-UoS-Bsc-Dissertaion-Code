@@ -1,6 +1,6 @@
-Metric,A2C,PPO,DDPG,TD3,SAC
-Annual Return,26.60%,25.52%,27.82%,29.26%,24.27%
-Cumulative Returns,48.86%,46.73%,51.29%,54.17%,44.25%
-Annual Volatility,14.17%,13.57%,14.85%,15.25%,13.96%
-Sharpe Ratio,1.74,1.74,1.73,1.76,1.63
-Max Drawdown,-8.72%,-8.23%,-9.36%,-9.56%,-10.20%
+Metric,A2C,PPO,SAC
+Annual Return,19.31%,17.75%,24.33%
+Cumulative Returns,60.81%,55.19%,79.65%
+Annual Volatility,16.03%,14.13%,17.16%
+Sharpe Ratio,1.18,1.23,1.35
+Max Drawdown,-21.69%,-20.01%,-23.58%
