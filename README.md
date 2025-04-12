@@ -2,12 +2,16 @@
 
 This repsitory is to backup and update my progress for my dissertaion's code of my bachelor degree Economics and Finance in University of Southampton.
 
-The Topic now is:
+Cryptocurrency Portfolio Optimisation: A GARCH-EVT Forecasted CVaR Based Reinforcement Learning Approach
 
-Cryptocurrency Portfolio Optimisation: A GARCH-EVT Forecasted CVaR Constriant and Safe Reinforcement Learning Approach
+main.ipynb is the main notebook. And main_wthout_crypto.ipynb is a version with only DJI assets for comparison.
 
-## Updates
-Nothing has been done. Only have this repository.
+ResetFolder.py is a python file to clean the folder. Used in caution!
 
-21Feb2025: Get Data Using yfinance api.
-3March2025: Doing some learning from [FinRL](https://github.com/AI4Finance-Foundation/FinRL) and Update the title (Almost Nothing)
+config.py and config_tickers.py stored the necessary config settings.
+
+Models are stored in trained_models
+
+Thanks to [FinRL](https://finrl.readthedocs.io/en/latest/tutorial/1-Introduction.html) and [yfinance](https://github.com/ranaroussi/yfinance).
+
+Code's first version finished in 12/Apr/2025.
