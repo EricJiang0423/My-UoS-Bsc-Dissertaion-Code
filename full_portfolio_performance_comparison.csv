@@ -1,0 +1,6 @@
+Metric,A2C,PPO,SAC,Equal Weight,DJI
+Annual Return,19.31%,17.75%,24.33%,17.44%,7.29%
+Cumulative Returns,60.81%,55.19%,79.65%,54.11%,13.87%
+Annual Volatility,16.03%,14.13%,17.16%,13.86%,12.42%
+Sharpe Ratio,1.18,1.23,1.35,1.23,0.63
+Max Drawdown,-21.69%,-20.01%,-23.58%,-19.74%,-16.37%
